@@ -38,7 +38,7 @@
 .header-searchInput {
     height: 12px;
     padding: 10px;
-    border: none;
+    border: 1px solid orange;
     width: 100%;
 }
 

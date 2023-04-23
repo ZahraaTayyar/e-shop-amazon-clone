@@ -28,7 +28,7 @@ function Header() {
           <span className="navItemLineTwo">Shop</span>
         </div>
 
-        <div className="nav-item">
+        <div className="nav-itemBasket">
           <span className="nav-itemLineOne">
             <ShoppingBasketIcon className="itemBasket" />
           </span>
