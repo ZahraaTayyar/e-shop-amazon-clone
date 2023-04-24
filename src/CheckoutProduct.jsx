@@ -5,7 +5,7 @@ function CheckoutProduct() {
   return (
     <div className="checkoutProduct">
       <img
-        src="image-link"
+        src="https://images-na.ssl-images-amazon.com/images/I/71mEsHyzSCL._SL1000_.jpg"
         alt="checkout Product"
         className="checkoutProduct-image"
       ></img>
